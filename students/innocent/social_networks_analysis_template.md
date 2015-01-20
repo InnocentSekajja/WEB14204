@@ -18,7 +18,7 @@
 
 ######Soundcloud
 
-Its mainly for artists/musicians both amature and professional but it has a social network element to it where the users can comment on the audio. This enables funs to interract with their favourite musicains hence making for a much enjoyable music social network. Users can subscribe to their favourite artists and get updates whenever an artist posts a new song. Users can also share a song they like on soundcloud and other social networks. People can create groups for their favourite genres of music and followers of that group can share music from other artists into the group. Artists can also directly share their music into these groups but sometimes they need admin clearence from the admin of the group.
+Its mainly for artists/musicians both amature and professional but it has a social network element to it where the users can comment on the audio. This enables funs to interract with their favourite musicains hence making for a much more enjoyable music social network. Users can subscribe to their favourite artists and get updates whenever an artist posts a new song. Users can also share a song they like on soundcloud and other social networks. People can create groups for their favourite genres of music and followers of that group can share music from other artists into the group. Artists can also directly share their music into these groups but sometimes they need admin clearence from the admin of the group.
 
 ######Tastebuds
 
