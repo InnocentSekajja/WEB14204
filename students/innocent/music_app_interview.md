@@ -1,6 +1,6 @@
 ####MUSIC APP INTERVIEW
 
-######what do you think the images are about?
+######What do you think the images are about?
 
 Andrezza: I think the images are about some sort of web page.
 
