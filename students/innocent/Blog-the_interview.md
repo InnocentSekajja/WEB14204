@@ -1,5 +1,7 @@
 ####THE INTERVIEW (AVAILABLE AT A BOOKSHOP NEAR YOU, GET IT BEFORE IT SELLS OUT!!!!!!!!!!)
 
+I called upon my trusted sister to help connect me to her work colleagues so that I could use them as guinea pigs for my user testing interview. Being the trusted person she is, she never disappointed. I got a call a day later that notified me that she had indeed lured two of her work colleagues to her house and that they had agreed to do the interview. Armed with a pen and paper and a pre written script, I set off nervous but hopeful as all I had to show was a set of several wireframes. I was nervous that they would not get it but soldiered on anyway. My sister had already made them feel at home and they were sipping on some cocaine, ohh sorry, coke whilst watching a Mr Bean re run. I did explain to them that this was a “work in progress” and told them that I needed their feedback to help me improve my design. This is how the interview transpired. 
+
 ######Are there factors that influence the type of music you listen to, if so can you describe them?
 
 Karella: it depends on what mood i am in, if I am in a happy mood, I tend to listen to a lot of uptempo music like pop and if I am in a not so good mood, I tend to listen to slow ballads.
