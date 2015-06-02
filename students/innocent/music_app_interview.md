@@ -1,4 +1,4 @@
-####MUSIC APP INTERVIEW (first interview with my workmate)
+####MUSIC APP INTERVIEW (first interview with my workmate Andrezza)
 
 ######What do you think the images are about?
 
