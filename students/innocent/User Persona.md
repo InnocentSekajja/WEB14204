@@ -10,7 +10,7 @@ Interests: Running and music
 
 
 ######About
-Sheila is a single pro athlete who specialises in 100 meter runs. She travelled from Poland to England in 2013 to pursue his athletics career. She usually listens to music on her ipod usually set to shuffle mode. She is mostly acquainted with Polish music and would like to expand her library to include lots of English music. She currently downloads music off Youtube but would like an app that has a great variety of music because he doesn't have much time to sit down on a computer downloading music. Sheila also loves going out to events and music concerts but being new to the country, she is not sure what bands to go and watch.
+Sheila is a single, pro athlete who specialises in 100 meter runs. She travelled from Poland to England in 2013 to pursue his athletics career. She usually listens to music on her ipod usually set to shuffle mode. She is mostly acquainted with Polish music and would like to expand her library to include lots of English music. She currently downloads music off Youtube but would like an app that has a great variety of music because he doesn't have much time to sit down on a computer downloading music. Sheila also loves going out to events and music concerts but being new to the country, she is not sure what bands to go and watch.
 
 ######User Experience Goals
 Music to listen to while training.
