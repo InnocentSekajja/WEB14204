@@ -1,6 +1,6 @@
 Persona - music app
 
-![image](file://localhost/Users/innocentsekajja/Desktop/untitled%20folder%202/APTR_Lindsey-Vonn.jpg)
+![image](file://localhost/Users/innocentsekajja/rave-WEB14204/students/innocent/images/APTR_Lindsey-Vonn.jpg)
 
 Sheila - 20
 Pro Athlete
